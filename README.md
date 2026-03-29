@@ -1,4 +1,4 @@
-# Things to know about me
+## things to know about me
 
 - 🇮🇹 italian
 - 💻 computer science student

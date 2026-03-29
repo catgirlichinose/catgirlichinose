@@ -5,7 +5,7 @@
 - 🏳️‍🌈 probably not straight
 - 💀 kinda dumb
 
-idk what i'm gonna use this profile for i'm gonna be honest
+idk what i'm gonna use this profile for i'm gonna be honest  
 that's it go away now
 
 <!--

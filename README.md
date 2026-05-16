@@ -5,7 +5,12 @@
 - 🏳️‍⚧️ gay gay homosexual gay
 - 💀 kinda dumb
 
-i daily drive a T480 btw
+Hardware i have/use:
+
+Lenovo Thinkpad T480 running Arch Linux (Daily driver);
+Desktop PC (R5 5600X, RX 6700XT, 16GB of ram, running Arch Linux);
+Lenovo Thinkpad T530 currently not in use (potentially installing Gentoo on it);
+Lenovo Thinkpad T420 running Arch Linux;
 
 <!--
 **catgirlichinose/catgirlichinose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

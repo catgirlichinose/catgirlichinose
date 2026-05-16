@@ -2,11 +2,10 @@
 
 - 🇮🇹 italian
 - 💻 computer science student
-- 🏳️‍🌈 probably not straight
+- 🏳️‍⚧️ gay gay homosexual gay
 - 💀 kinda dumb
 
-idk what i'm gonna use this profile for i'm gonna be honest  
-that's it go away now
+i daily drive a T480 btw
 
 <!--
 **catgirlichinose/catgirlichinose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,9 +8,9 @@
 Hardware i have/use:
 
 Lenovo Thinkpad T480 running Arch Linux (Daily driver);  
-Desktop PC (R5 5600X, RX 6700XT) running Arch Linux;  
+Desktop PC (R5 5600X, RX 6700XT) running Gentoo;  
 Lenovo Thinkpad T530 currently not in use (potentially going to installing Gentoo on it);  
-Lenovo Thinkpad T420 running Arch Linux;  
+Lenovo Thinkpad T420 running Gentoo; 
 
 <!--
 **catgirlichinose/catgirlichinose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
